@@ -159,9 +159,8 @@ Error: unexpected symbol en "instalar.paquetes("ggplot2") biblioteca"
 > ggplot(df_barras, aes(x = problemas, y = personas))+ geom_col(aes(fill = problemas))+ labs( title = "Cantidad de personas por problemas", x = "problemas", y = "Número de personas" ) + theme_minimal()
  
 ### Grafica de barras
-<img width="891" height="732" alt="image" src="https://github.com/user-attachments/assets/aba12b11-dde5-4d5e-8618-b80faacd9ea8" />
-[Base_datos_municipios_gto.xlsx](https://github.com/user-attachments/files/27618487/Base_datos_municipios_gto.xlsx) Excel
- 
+ <img width="891" height="732" alt="image" src="https://github.com/user-attachments/assets/07e8a366-4863-4c2b-9c3c-f046d40e9c04" />
+
 
 # Conclusiones
 Se realizó una regresión lineal múltiple con el objetivo de analizar la relación entre el robo de negocio, el robo en casa y el robo con violencia. Los resultados muestran que el robo con violencia tiene una relación positiva con el robo de negocio, mientras que el robo en casa presenta una relación negativa. Ambas variables resultaron estadísticamente significativas, lo que indica que influyen en el comportamiento del robo de negocio. Asimismo, el modelo obtuvo un R² de 0.8851, lo que significa que explica aproximadamente el 88.5% de la variación observada, indicando un ajuste fuerte y adecuado del modelo.
